@@ -2,9 +2,9 @@
 <h1 align="left">박준제</h1>
 
 1998.02.13
-<p>✅ email  kauze1998@gmail.com </p>
-<p>✅ portfolio https://www.notion.so/cbba88a9ede742a2a4caf09b96bf1e3f <p/> 
-<p>✅ blog  https://velog.io/@kauze98 </p>
+<p>✅ email:  kauze1998@gmail.com </p>
+<p>✅ portfolio: https://www.notion.so/cbba88a9ede742a2a4caf09b96bf1e3f <p/> 
+<p>✅ blog:  https://velog.io/@kauze98 </p>
 <p align="left">
 </p>
 
