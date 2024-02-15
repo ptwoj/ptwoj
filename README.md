@@ -52,7 +52,7 @@
     <span style="margin-left: 5px;">React</span>
 </div>
 
-<h3 align="left">DevOps</h3>
+<h3 align="left">Tools</h3>
 <div style="display: flex; align-items: center;">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
