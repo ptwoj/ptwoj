@@ -16,18 +16,19 @@
 </div>
 
 <div style="display: flex; align-items: center;">
+    <a href="https://spring.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+    </a>
+    <span style="margin-left: 5px;">Spring Framework</span>
+</div>
+
+<div style="display: flex; align-items: center;">
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
     </a>
     <span style="margin-left: 5px;">Node.js</span>
 </div>
 
-<div style="display: flex; align-items: center;">
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Framework" width="40" height="40"/>
-    </a>
-    <span style="margin-left: 5px;">Spring Framework</span>
-</div>
 <div style="display: flex; align-items: center;">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
