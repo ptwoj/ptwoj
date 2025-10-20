@@ -1,4 +1,4 @@
-<h3 align="left">신입 백엔드 개발자</h3>
+<h3 align="left"></h3>
 <h1 align="left">박준제</h1>
 
 1998.02.13
