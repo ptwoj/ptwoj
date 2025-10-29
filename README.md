@@ -116,8 +116,7 @@
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"
-  height="40"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
           </a>
           <span style="margin-left: 5px;">JavaScript</span>
       </div>
