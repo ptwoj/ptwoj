@@ -84,8 +84,7 @@
       <div style="display: flex; align-items: center;">
           <a href="https://aws.amazon.com/rds/aurora/" target="_blank"
   rel="noreferrer">
-              <img src="https://user-images.githubusercontent.com/23182117/203270035-42d4467b-2a63-4025-b318-3066e9545599.png" alt="AWS Aurora" width="40"
-  height="40"/>
+              <img src="https://user-images.githubusercontent.com/23182117/203270035-42d4467b-2a63-4025-b318-3066e9545599.png" alt="AWS Aurora" width="40" height="40"/>
           </a>
           <span style="margin-left: 5px;">AWS Aurora</span>
       </div>
