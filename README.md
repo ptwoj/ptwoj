@@ -1,7 +1,7 @@
  <h1 align="left">박준제 (Junje Park)</h1>
 
   <p>✅ email: kauze1998@gmail.com </p>
-  <p>✅ portfolio: https://www.notion.so/cbba88a9ede742a2a4caf09b96bf1e3f <p/>
+  <p>✅ portfolio: 
   <br>
 
   <h2 align="left">💡 About Me</h2>
