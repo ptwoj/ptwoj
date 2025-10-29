@@ -70,9 +70,9 @@
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://spring.io/" target="_blank" rel="noreferrer">
-              <img
-  src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-  alt="Spring" width="40" height="40"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/devel
+  op/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40"
+  height="40"/>
           </a>
           <span style="margin-left: 5px;">Spring Framework</span>
       </div>
