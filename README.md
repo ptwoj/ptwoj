@@ -22,24 +22,21 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <div style="display: flex; align-items: center;">
           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"
   width="40" height="40"/>
           </a>
           <span style="margin-left: 5px;">AWS</span>
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">Terraform</span>
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">Docker</span>
@@ -47,8 +44,7 @@
       <div style="display: flex; align-items: center;">
           <a href="https://github.com/features/actions" target="_blank"
   rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/github/github-original-wordmark.svg" alt="GitHub Actions" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub Actions" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">GitHub Actions</span>
@@ -63,23 +59,20 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <div style="display: flex; align-items: center;">
           <a href="https://www.java.com" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/java/java-original.svg" alt="Java 17" width="40" height="40"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java 17" width="40" height="40"/>
           </a>
           <span style="margin-left: 5px;">Java 17</span>
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://spring.io/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/devel
-  op/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/spring/spring-original-wordmark.svg" alt="Spring" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">Spring Framework</span>
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">Node.js</span>
@@ -91,16 +84,14 @@
       <div style="display: flex; align-items: center;">
           <a href="https://aws.amazon.com/rds/aurora/" target="_blank"
   rel="noreferrer">
-              <img src="https://user-images.githubusercontent.com/23182117/20327
-  0035-42d4467b-2a63-4025-b318-3066e9545599.png" alt="AWS Aurora" width="40"
+              <img src="https://user-images.githubusercontent.com/23182117/203270035-42d4467b-2a63-4025-b318-3066e9545599.png" alt="AWS Aurora" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">AWS Aurora</span>
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">MySQL</span>
@@ -111,8 +102,7 @@
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <div style="display: flex; align-items: center;">
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/react/react-original-wordmark.svg" alt="React" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">React</span>
@@ -120,15 +110,13 @@
       <div style="display: flex; align-items: center;">
           <a href="https://www.w3schools.com/css/" target="_blank"
   rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
           </a>
           <span style="margin-left: 5px;">CSS3</span>
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/maste
-  r/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"
   height="40"/>
           </a>
           <span style="margin-left: 5px;">JavaScript</span>
