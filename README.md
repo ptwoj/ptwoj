@@ -1,7 +1,7 @@
 <h1 align="left">박준제 (Junje Park)</h1>
 
-<p>✅ email: kauze1998@gmail.com </p>
-<p>✅ portfolio: </p>
+<p>✅ email: qkrwnswp4474@naver.com </p>
+<p>✅ portfolio: https://github.com/hyh528/PetClinic-AWS-Migration </p>
 <br>
 
 <h2 align="left">💡 About Me</h2>
