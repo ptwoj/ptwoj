@@ -1,7 +1,7 @@
 <h1 align="left">박준제 (Junje Park)</h1>
 
-<p>✅ email: qkrwnswp4474@naver.com </p>
-<p>✅ portfolio: https://github.com/hyh528/PetClinic-AWS-Migration </p>
+<p>✅ email: kauze1998@gmail.com </p>
+<p>✅ portfolio: </p>
 <br>
 
 <h2 align="left">💡 About Me</h2>
@@ -121,6 +121,75 @@ rel="noreferrer">
 </div>
 <br>
 
+<h2 align="left">🚀 Projects</h2>
+
+<h3 align="left">PetClinic AWS 마이그레이션 (데이터 담당)</h3>
+<p>
+  <b>Project:</b> Spring PetClinic Microservices on-premise to AWS Cloud Migration<br>
+  <b>Role:</b> Data & Migration Lead (데이터베이스 및 마이그레이션 총괄)
+</p>
+
+<p>
+  온프레미스 MySQL DB를 AWS Aurora로 이전하고, MSA 설정 아키텍처를 클라우드 네이티브 방식으로 전환하는 것을 목표로, 데이터베이스 설계, IaC 구축, 마이그레이션, 안정화까지 데이터 관련 모든 기술 책임을 담당했습니다.
+</p>
+
+<h4>1. 주요 성과 및 수행 내용 (What I Did)</h4>
+<ul>
+  <li>
+    <b>운영 수준의 Aurora DB 인프라 설계 (Terraform 100%):</b>
+    <ul>
+      <li>Terraform을 사용하여 Aurora 클러스터(MySQL 8.0)를 구축하고, <code>terraform_remote_state</code>를 통해 타 팀(Network, Security) 인프라와 연동했습니다.</li>
+      <li>DB 파라미터(<code>utf8mb4</code>, <code>Asia/Seoul</code>, <code>max_connections=500</code>)를 코드로 관리하고, <code>slow_query_log</code>를 활성화하여 분석 기반을 마련했습니다.</li>
+      <li>Public Subnet에 테스트용 EC2(Bastion Host)를 코드로 구축하여 DB 연결 검증 및 문제 해결 효율성을 높였습니다.</li>
+    </ul>
+  </li>
+  <li>
+    <b>안전하고 확장 가능한 설정 아키텍처 구현:</b>
+    <ul>
+      <li><b>AWS Parameter Store</b>를 도입하여 공통/서비스별 설정을 계층적(<code>petclinic/common/</code>, <code>petclinic/dev/{service}/</code>)으로 분리, 중앙 관리했습니다.</li>
+      <li>DB 비밀번호 등 민감 정보는 <b>AWS Secrets Manager</b>로 분리하고, Aurora 생성 시 <code>manage_master_user_password = true</code> 옵션으로 코드 노출 없이 자동 생성/교체되도록 구성했습니다.</li>
+      <li><b>AWS KMS</b> 키를 별도 생성하여 Secrets Manager의 비밀번호를 암호화, 보안을 강화했습니다.</li>
+    </ul>
+  </li>
+  <li>
+    <b>데이터 마이그레이션 성공 및 무결성 검증:</b>
+    <ul>
+      <li>덤프 생성 시 <b>인코딩 오류(UTF-16)</b>, <b>스키마 불일치(Unsigned Mismatch)</b>, 임포트 시 <b>트랜잭션 롤백(Ghost Data)</b> 등 실전 문제들을 해결했습니다.</li>
+      <li><code>docker cp</code>, <code>vi</code> (스키마 수정), <code>SOURCE</code> (임포트) 등 안정적인 마이그레이션 절차를 수립하고 문서화했습니다.</li>
+      <li>테이블별 Row Count 비교 및 CRUD 쿼리 테스트로 데이터 100% 일관성을 검증했습니다.</li>
+    </ul>
+  </li>
+</ul>
+
+<h4>2. 최종 안정화 및 모니터링 구축 (What I Completed)</h4>
+<ul>
+  <li>
+    <b>ECS 연동 지원 및 안정화:</b> Application 팀의 서비스 연동 과정을 지원하며 발생한 DB 연결, IAM 권한 관련 트러블슈팅을 담당하여 안정적인 서비스 연동을 완료했습니다.
+  </li>
+  <li>
+    <b>모니터링 환경 구축:</b> CloudWatch를 사용하여 DB 핵심 지표(<code>CPUUtilization</code>, <code>DatabaseConnections</code>, <code>SelectLatency</code>) 대시보드를 구축했습니다. 또한, 임계치 기반 경보(Alarm)를 설정하여 장애 예방 및 신속 대응 체계를 완성했습니다.
+  </li>
+  <li>
+    <b>성능 최적화:</b> 서비스 연동 후 발생한 트래픽을 기반으로 <code>slow_query_log</code>를 분석하고, 쿼리 튜닝 및 인덱스 전략을 수립하여 데이터베이스 성능을 최적화했습니다.
+  </li>
+</ul>
+
+<h4>3. 이 프로젝트를 통해 얻은 핵심 역량</h4>
+<ul>
+  <li>
+    <b>Cloud Infrastructure as Code (IaC):</b> Terraform으로 복잡한 클라우드 인프라(DB, 파라미터, 보안 리소스)를 선언적으로 관리하고 자동화하는 능력.
+  </li>
+  <li>
+    <b>Database Migration & Troubleshooting:</b> 마이그레이션 전 과정을 계획, 실행하고, 예측 불가능한 실전 문제(스키마, 인코딩, 네트워크)를 해결하는 능력.
+  </li>
+  <li>
+    <b>Cloud-Native Architecture Design:</b> AWS 관리형 서비스(Aurora, Parameter Store, Secrets Manager, KMS)를 조합하여 안전하고 효율적인 아키텍처를 설계하는 능력.
+  </li>
+  <li>
+    <b>Team Collaboration in a DevOps Environment:</b> <code>terraform_remote_state</code>를 활용한 인프라 공유, Git 기반 형상 관리, 명확한 <code>outputs</code> 정의를 통한 협업 능력.
+  </li>
+</ul>
+<br>
 <h2 align="left">🎓 교육</h2>
 <p>
   <b>2025. 03 ~ 2025. 12</b><br>
