@@ -90,8 +90,7 @@
       </div>
       <div style="display: flex; align-items: center;">
           <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"
-  height="40"/>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
           </a>
           <span style="margin-left: 5px;">MySQL</span>
       </div>
