@@ -1,4 +1,4 @@
-<h1 align="center">👋 안녕하세요. 꾸준함으로 기술을 쌓아온 클라우드 엔지니어, 박준제입니다.</h1>
+<h1 align="center">👋 안녕하세요. 꾸준함으로 기술을 쌓아온 클라우드 엔지니어, 박준제입니다. </h1>
 
 <p align="center">
   <b>Cloud Infrastructure Engineer | AWS & Multi-Cloud Specialist</b>
@@ -30,7 +30,7 @@
 - 🚀 AWS 환경에서 Aurora DB 마이그레이션과 같은 **복잡한 실전 문제를 해결**한 경험이 있으며, **배포 시간을 100% 단축**하고 **오류율을 90%에서 0%로 개선**했습니다.
 - 🔒 Secrets Manager와 KMS를 연동한 **보안 아키텍처를 설계**하고, WAF, Honeypot, ELK Stack을 활용한 **멀티 레이어 보안 체계**를 구축했습니다.
 - 💻 Spring Boot(MSA) 개발 경험을 바탕으로, **인프라와 애플리케이션 양쪽의 문제를 함께 진단**하고 CI/CD 파이프라인을 통해 안정적인 배포 환경을 구현합니다.
-- 📚 **멀티 클라우드 환경(AWS, Azure, NCP)** 에 대한 이해를 갖추고 있으며, 지속적으로 새로운 클라우드 기술을 학습하고 있습니다.
+- 📚 **멀티 클라우드 환경(AWS, Azure, NCP)**에 대한 이해를 갖추고 있으며, 지속적으로 새로운 클라우드 기술을 학습하고 있습니다.
 
 <br>
 
@@ -335,21 +335,6 @@
   - 기능 확장과 유지보수가 용이한 구조 설계
 
 </details>
-
-<br>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyh528&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyh528&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyh528&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <br>
 
