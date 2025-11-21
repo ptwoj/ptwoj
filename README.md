@@ -1,18 +1,12 @@
-<h1 align="center">👋 Hi, I'm Junje Park (박준제)</h1>
+<h1 align="center">👋 안녕하세요. 꾸준함으로 기술을 쌓아온 클라우드 엔지니어, 박준제입니다.</h1>
 
 <p align="center">
   <b>Cloud Infrastructure Engineer | AWS & Multi-Cloud Specialist</b>
 </p>
 
 <p align="center">
-  <a href="mailto:qkrwnswp4474@naver.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/hyh528/PetClinic-AWS-Migration">
     <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -364,14 +358,8 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="mailto:qkrwnswp4474@naver.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
   <a href="https://github.com/hyh528">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
